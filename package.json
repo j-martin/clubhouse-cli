@@ -45,8 +45,6 @@
   "devDependencies": {
     "@types/chalk": "^2.2.0",
     "@types/cli-spinner": "^0.2.0",
-    "@types/clubhouse-lib": "^0.6.0",
-    "@types/commander": "^2.12.2",
     "@types/debug": "^4.1.2",
     "@types/node": "^11.11.4",
     "@types/node-fetch": "^2.1.7",
