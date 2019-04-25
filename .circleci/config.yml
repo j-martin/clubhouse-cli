@@ -17,4 +17,4 @@ jobs:
             - ./node_modules
       - run:
           name: Running Tests
-          command: npm test
+          command: npm run ci
