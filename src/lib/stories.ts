@@ -16,7 +16,7 @@ import {
     Story,
     Workflow,
     WorkflowState,
-} from '../../../clubhouse-lib/typings';
+} from 'clubhouse-lib';
 
 const debug = debugging('club');
 const config = loadConfig();
